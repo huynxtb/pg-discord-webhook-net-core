@@ -1,0 +1,17 @@
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\bin\Debug\net6.0\WebhookDiscord.exe
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\bin\Debug\net6.0\WebhookDiscord.deps.json
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\bin\Debug\net6.0\WebhookDiscord.runtimeconfig.json
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\bin\Debug\net6.0\WebhookDiscord.dll
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\bin\Debug\net6.0\WebhookDiscord.pdb
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\bin\Debug\net6.0\RestSharp.dll
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.csproj.AssemblyReference.cache
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.GeneratedMSBuildEditorConfig.editorconfig
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.AssemblyInfoInputs.cache
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.AssemblyInfo.cs
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.csproj.CoreCompileInputs.cache
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.csproj.CopyComplete
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.dll
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\refint\WebhookDiscord.dll
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.pdb
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\WebhookDiscord.genruntimeconfig.cache
+C:\HuyNX11\Data\Code Mega Blog\DiscordCshap\WebhookDiscord\WebhookDiscord\obj\Debug\net6.0\ref\WebhookDiscord.dll

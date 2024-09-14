@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rzEIVS2s4E8aKvRQfdqzZ65uGGbYWavvt6rFjQJaTNvmPVThept0rgkipA7eH41MA/BAVwCy8ZH/bw7bZvr8Ug==",
+  "success": true,
+  "projectFilePath": "C:\\HuyNX11\\Data\\Code Mega Blog\\DiscordCshap\\WebhookDiscord\\WebhookDiscord\\WebhookDiscord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xuanh\\.nuget\\packages\\restsharp\\109.0.0-preview.1\\restsharp.109.0.0-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
